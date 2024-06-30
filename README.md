@@ -1,7 +1,8 @@
 # Vivek-Thakur
 <h1 align="center">Hi 👋, I'm Vivek Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/VIVEKTHAKUR2005/Vivek-Thakur/assets/145889883/7066907e-47ec-4261-80d0-45764db81baf)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekthakur2005&label=Profile%20views&color=0e75b6&style=flat" alt="vivekthakur2005" /> </p>
 
 - 📫 How to reach me **vivekthakur1122005@gmail.com**
